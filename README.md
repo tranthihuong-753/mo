@@ -19,4 +19,5 @@ Nếu bạn có góp ý, lời thì thầm, hoặc chỉ muốn nhắn “hello�
 📱 Zalo: 0988753730 (lười nặng 😎)
 
 <h2>⚠️ Ghi chú nhỏ xíu</h2>
-Repo này mang tính cá nhân là chính, nhưng nếu bạn thấy thứ gì đó hữu ích thì… mình rất vui luôn đó nha!
+
+Repo này mang tính cá nhân là chính, nhưng nếu bạn thấy thứ gì đó hữu ích thì… kệ bạn!
