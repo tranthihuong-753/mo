@@ -9,7 +9,7 @@ Là Histogram of Oriented Gradients – nghe oách chứ code 1 dòng là xong �
 <h2>🔍 Cách học siêu nhanh</h2>
 
 <h3>✅ Cách 1:</h3>
-Xem ảnh ví dụ theo thứ tự: 50 ➡️ 57 ➡️ 09 ➡️ 11
+Xem ảnh ví dụ theo thứ tự: 36 ➡️ 43 ➡️ 3 ➡️ 14
 
 (ảnh là best teacher mà 😘)
 
